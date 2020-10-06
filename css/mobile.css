@@ -58,6 +58,9 @@
   #main-footer .footer-container {
     grid-template-columns: repeat(1, 1fr);
   }
+  #showcase .showcase-container {
+    height: 60vh;
+  }
   #main-footer .footer-container > *:last-child {
     grid-column: 1;
   }
