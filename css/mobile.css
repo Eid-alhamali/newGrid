@@ -52,6 +52,10 @@
   grid-column: 1;
 }
 
+.btn {
+  -webkit-appearance: none;
+}
+
 @media (max-width: 600px) {
   #showcase .showcase-container,
   #home-articles .articles-container,
