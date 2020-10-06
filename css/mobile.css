@@ -30,7 +30,6 @@
   background: transparent;
   border-color: transparent;
   transition: var(--transition);
-  cursor: pointer;
 }
 .nav-toggle:hover {
   color: var(--primary-color);
