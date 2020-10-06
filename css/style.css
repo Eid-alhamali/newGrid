@@ -219,6 +219,7 @@ p {
 #main-nav .links a.current {
   background: var(--primary-color);
   color: #fff;
+  width: 100%;
 }
 
 #main-nav .links a:hover {
